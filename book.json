@@ -1,0 +1,12 @@
+{
+	"title" : "快速查找",
+	"language" : "zh-hans",
+	"style" : {
+        "website": "styles/website.css"
+    },
+	"plugins" : [
+		"theme-faq",
+		"-livereload"
+	]
+}
+
