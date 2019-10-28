@@ -1,7 +1,11 @@
 # Summary
 
 ## Linux
+* [kill](linux/kill-command.md)
 * [Linux 命令](linux/linux-command.md)
+* [mv](linux/mv-command.md)
+* [nohup](linux/nohup-command.md)
+* [ps](linux/ps-command.md)
 * [Vim 命令](linux/vim-command.md)
 
 ## Git
