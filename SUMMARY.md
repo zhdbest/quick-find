@@ -7,6 +7,7 @@
 * [ps](linux/ps-command.md)
 * [Vim 命令](linux/vim-command.md)
 * [alias](linux/alias.md)
+* [free](linux/free.md)
 
 ## Git
 * [git config](git/git-config.md)
