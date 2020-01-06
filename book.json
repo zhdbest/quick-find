@@ -6,7 +6,10 @@
     },
 	"plugins" : [
 		"theme-faq",
-		"-livereload"
+		"-livereload",
+		"-search", 
+        "-lunr",
+        "search-pro"
 	]
 }
 
